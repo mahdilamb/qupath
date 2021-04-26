@@ -403,6 +403,7 @@ project(':qupath-core-processing') {
 project(':qupath-gui-fx') {
   dependencies {
 	  api project(':qupath-core'), project(':qupath-core-processing')
+      implementation("net.mahdilamb:datavizfx:0.1.23-SNAPSHOT")
   }
 }
 /*
