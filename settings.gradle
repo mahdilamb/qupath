@@ -24,5 +24,4 @@ project(':qupath-extension-pen').projectDir = "$rootDir/qupath-extension-pen" as
 project(':qupath-extension-svg').projectDir = "$rootDir/qupath-extension-svg" as File
 project(':qupath-experimental').projectDir = "$rootDir/qupath-experimental" as File
 project(':qupath-extension-tensorflow').projectDir = "$rootDir/qupath-extension-tensorflow" as File
-include 'qupath-extension-dataviz'
 
